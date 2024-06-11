@@ -16,7 +16,7 @@
 <tr>
 <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">觀光系</a></td>
 <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
-<td><a href="">資料視覺化</a></td>
+<td><a href="https://github.com/Rainstar819/DataVisualization">資料視覺化</a></td>
 <td>彭O絹</td>
 </tr>
 <tr>
