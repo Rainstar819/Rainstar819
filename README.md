@@ -4,7 +4,7 @@
 <tr>
 <th>系級</th>
 <th><img src="working.jpeg"></th>
-<th><a href="">學習履歷</a></th>
+<th><a href="">學習歷程</a></th>
 <th><a href="https://chat.openai.com/">好友</a></th>
 </tr>
 <tr>
